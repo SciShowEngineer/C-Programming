@@ -8,20 +8,23 @@ C is a general-purpose, procedural, high-level programming language used in the 
 C language was developed by Dennis M. Ritchie at the Bell Telephone Laboratories in 1972.
 It is a powerful and flexible language which was first developed for the programming of the UNIX operating System.
 C is one of the most widely used programming languages.
+
+
 [**Learn More:**](https://www.scishowengineer.com/p/c-programming.html)
+
 
 C programming language is known for its simplicity and efficiency. It is the best choice to start with programming as it gives you a foundational understanding of programming.
 
-c programming geeks for geeks
+c programming geeks for geeks:[**Learn More:**](https://www.scishowengineer.com/p/c-programming.html)
 
-c programming language
+c programming language:[**Learn More:**](https://www.scishowengineer.com/p/c-programming.html)
 
-c programming online
+c programming online:[**Learn More:**](https://www.scishowengineer.com/p/c-programming.html)
 
-c programming
+c programming:[**Learn More:**](https://www.scishowengineer.com/p/c-programming.html)
 
-what is c language
+what is c language:[**Learn More:**](https://www.scishowengineer.com/p/c-programming.html)
 
-introduction to c language
+introduction to c language:[**Learn More:**](https://www.scishowengineer.com/p/c-programming.html)
 
 C is a general-purpose programming language that’s considered the foundation for many modern software applications. It was developed in 1972 by Dennis Ritchie at Bell Labs to write the UNIX operating system. C is a middle-level language, meaning it interacts with a computer system’s abstraction layer.
